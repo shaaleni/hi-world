@@ -3,4 +3,4 @@ My first project
 
 Hi
 
-Hope you are doing well.excited to learn on github
+Hope you are doing well.looking to work towards github.
